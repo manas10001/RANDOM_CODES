@@ -1,5 +1,5 @@
 /*
-Assignment 2
+Assignment 2 WITH POINTERS
 23343
 */
 #include<iostream>
