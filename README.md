@@ -1,8 +1,4 @@
 # RANDOM_CODES
 
-THE THINGS WE DO FOR COLLAGE......
-
-
-
-ALL CODES BY ME
+PL and OOPL codes for Diploma Information Technology 
 
